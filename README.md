@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, my name is Aurélien REYNAUD</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=areystm&label=Profile%20views&color=03234b&style=flat" alt="areystm" /> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
